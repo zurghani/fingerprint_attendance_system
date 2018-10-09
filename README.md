@@ -15,3 +15,4 @@ program features
 
 ![Alt Text](https://github.com/qahrb/fingerprint_attendance_system/blob/master/attendance.gif)
 
+[Link to Prezi presentation of Graduation project](https://prezi.com/p/eawnqgnijfhy/)
